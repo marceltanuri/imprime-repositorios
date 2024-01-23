@@ -1,4 +1,8 @@
 {
-    "nome" : "Marcel Tanuri",
-    "githubUser" : "marceltanuri"
+    "participantes": [
+        {"nome" : "Marcel Tanuri",
+            "githubUser" : "marceltanuri"},
+        {"nome" : "Priscilla Kleine",
+            "githubUser" : "pri-kleine"}
+    ]
 }
